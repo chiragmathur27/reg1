@@ -150,7 +150,7 @@ function SIGNUPBASEBALL32(props) {
               >
                 Home
               </a> */}
-              HOME
+              Home
             </p>
 
             <div className="the-facility akshar-normal-black-19px">
