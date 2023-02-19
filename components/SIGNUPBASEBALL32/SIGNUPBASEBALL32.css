@@ -322,8 +322,15 @@
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
+  height: 50%;
+  width: 40%;
+  
 }
-
+#img-softball{
+  margin-top: 70px;
+  width: 72.125em;
+  height:58.8125em;
+}
 .sign-up {
   left: 840px;
   letter-spacing: 0;
